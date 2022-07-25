@@ -1,6 +1,11 @@
 <h1 align="center">Essalam Alaykoum 👋, I'm Belhadj Abderrahmane </h1>  <h5 align="center">aka</h5> <h1 align="center">Belveloper</h1>
 <h3 align="center">A passionate CS engineer who wants to learn more</h3>
 
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Flutter+Dev;Cs+Student;">
+    
+</p>
+
 - 🔭 I’m currently working on **E-9raya project ( an e learning tool to make your online studies easier)**
 
 - 🌱 I’m currently learning **Flutter,Python**
