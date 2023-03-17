@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS engineer who wants to learn more</h3>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Flutter+Dev;Cs+Student;">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Flutter+Dev;Cs+Engineer;">
     
 </p>
 
