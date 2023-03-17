@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **flutter,C,Java,Python**
 
-- 📫 How to reach me **BelhadjAbderrahmane.co@gmail.com**
+- 📫 How to reach me **Belhadj.abderrahmane.co@gmail.com**
 
 - ⚡ Fun fact ** minimal flat Ui fascinates me **
 
